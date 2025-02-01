@@ -1,0 +1,112 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: aquamarine;
+    padding: 10px;
+}
+
+header img {
+    display: block;
+    margin: auto;
+}
+
+header b {
+    text-align: center;
+}
+
+header a {
+    border: solid 2px red;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 17px;
+    margin: 19px;
+}
+
+nav {
+    background-color: rgb(35, 248, 35);
+    padding: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    border: solid 2px darkgrey;
+    border-radius: 5px;
+    margin: 10px;
+    font-size: 20px;
+}
+/* .delivery {
+    text-decoration: none;
+    border: solid 2px darkgrey;
+    border-radius: 5px;
+    margin: 10px;
+}
+.sale {
+    text-decoration: none;
+    border: solid 2px darkgrey;
+    border-radius: 5px;
+    margin: 10px;
+}
+.about {
+    text-decoration: none;
+    border: solid 2px darkgrey;
+    border-radius: 5px;
+    margin: 10px;
+
+} */
+main h1 {
+    color: darkorange;
+    text-align: center;
+    border: solid 4px lightgrey;
+    border-radius: 10px;
+    background-color: lightblue;
+    margin:12px;
+}
+.contacts {
+    border: solid 3px mediumslateblue;
+    width: fit-content;
+    background-color: navy;
+    color: lightgrey;
+    margin:0px;
+}
+.address {
+    border: solid 3px mediumslateblue;
+    width: fit-content;
+    background-color: navy;
+    color: lightgrey;
+    margin:0px;
+}
+.phone {
+    border: solid 3px mediumslateblue;
+    width: fit-content;
+    background-color: navy;
+    color: lightgrey;
+    margin:0px;
+}
+.snap {
+    border: solid 1px rgb(241, 84, 84);
+    border-radius: 13px;
+    background-color: rgb(241, 84, 84);
+}
+
+.firecrackers {
+    border: solid 1px rgb(241, 84, 84);
+    border-radius: 13px;
+    background-color: rgb(241, 84, 84);
+}
+
+.fountain {
+    border: solid 1px rgb(241, 84, 84);
+    border-radius: 13px;
+    background-color: rgb(241, 84, 84);
+}
+
+.Festive_Ballons {
+    border: solid 1px rgb(241, 84, 84);
+    border-radius: 13px;
+    background-color: rgb(241, 84, 84);
+}
+.fireworks {
+    text-align: center;
+}
